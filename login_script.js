@@ -134,7 +134,7 @@ form.addEventListener('submit', function (e) {
 
     // submit open index if the form is valid
     if (isFormValid) {
-        window.open("index.html");
+        window.open("home.html");
     }
 });
 
